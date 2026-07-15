@@ -27,5 +27,5 @@ I build reliable software with a strong focus on systems programming, networking
 * Building production-ready software
 * Open to Software Engineer and Backend opportunities
 
-📫 **Email:** [your.email@example.com](mailto:your.email@example.com)
-💼 **LinkedIn:** linkedin.com/in/your-profile
+📫 **Email:** [your.email@example.com](idrissisoufiane2000@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/soufiane-idrissi-dev/)
